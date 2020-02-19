@@ -72,3 +72,6 @@ on track for Monday wrap-up.
 
 [2020-02-14 21:19] bad @health day.
 Will work tmrw instead.
+
+[2020-02-19 20:54] This should add a new entry for today.
+@zsh bashing today, using Linux, playing with BlueBEAR. Jobs seem to be going through.
