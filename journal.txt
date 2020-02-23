@@ -75,3 +75,9 @@ Will work tmrw instead.
 
 [2020-02-19 20:54] This should add a new entry for today.
 @zsh bashing today, using Linux, playing with BlueBEAR. Jobs seem to be going through.
+
+[2020-02-21 18:20] recovering from yesterday's trip to campus.
+Should be able to work over the weekend. @health
+
+[2020-02-23 21:35] Admin.
+Looking how to use R w/ NETCDF. Documenting briefly major drought events during VOD Ku Band data period (i.e. 1987-2017)

@@ -5,7 +5,8 @@ encrypt: false
 highlight: true
 indent_character: '|'
 journals:
-  default: /Users/Lavinia/Documents/GitHub/Lavinia-Dlog/journal.txt
+  default: /Users/laviniageorgescu/Documents/GitHub/Lavinia-Dlog/journal.txt
+  health: /Users/laviniageorgescu/Dropbox/jrnl/health_jrnl.txt
 linewrap: 79
 tagsymbols: '@'
 template: false
