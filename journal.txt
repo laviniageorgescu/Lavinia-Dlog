@@ -81,3 +81,6 @@ Should be able to work over the weekend. @health
 
 [2020-02-23 21:35] Admin.
 Looking how to use R w/ NETCDF. Documenting briefly major drought events during VOD Ku Band data period (i.e. 1987-2017)
+
+[2020-02-24 23:25] More admin and finished the Oxford appl (first version anyway).
+I hate emails.
