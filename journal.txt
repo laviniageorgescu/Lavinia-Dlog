@@ -84,3 +84,6 @@ Looking how to use R w/ NETCDF. Documenting briefly major drought events during 
 
 [2020-02-24 23:25] More admin and finished the Oxford appl (first version anyway).
 I hate emails.
+
+[2020-02-25 20:31] Fixed RStudio.
+NetCDF files seem to be opening fine. Will do as much as I can tmrw before meeting. Plan is to look at 2012 Great Plains drought in CONUS.
