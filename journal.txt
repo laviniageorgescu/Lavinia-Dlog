@@ -91,3 +91,6 @@ NetCDF files seem to be opening fine. Will do as much as I can tmrw before meeti
 [2020-02-27 00:05] Long day of fixing R (again, for good this time), bc of conflicts w/ Anaconda R and that version not letting me install packages??.
 Managed to concat ncdf files, fix the time format issue, many issues w/ time format and concat with R, hadad to switch to cmd and use NCO and CDO. No actual analysis done yet. :( 
 But a lot of troubleshooting.
+
+[2020-02-28 21:58] Recovery day.
+Will work over weekend.
