@@ -111,3 +111,6 @@ Had to redo some steps from yesterday... x(
 
 [2020-03-06 00:04] Masked and plotting en route.
 Will try to improve tmrw and add some line plots  as well. Will also try to get anomaly maps/plots. @coding
+
+[2020-03-06 23:41] work work work will now send what plots I managed to make, R has been frustrating...
+Too tired to think now
