@@ -108,3 +108,6 @@ Weird things are happening -> have tried everything under the sun. Asked for hel
 
 [2020-03-04 22:42] some delay bc of space juggling on my laptop and dealing with RDS connection probs.
 Had to redo some steps from yesterday... x(
+
+[2020-03-06 00:04] Masked and plotting en route.
+Will try to improve tmrw and add some line plots  as well. Will also try to get anomaly maps/plots. @coding
