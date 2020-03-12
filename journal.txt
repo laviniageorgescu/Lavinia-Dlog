@@ -117,3 +117,6 @@ Too tired to think now
 
 [2020-03-09 21:18] problem with glasses, will be fixed tmrw.
 Managed to take care of LoA and get evidence from GP, but can't see much without them. Will continue coding tmrw when they're fixed. @health
+
+[2020-03-12 21:03] Recovered from new anti-depressant hole.
+9-12/03/2020 affected, bedridden on the 10th, better on 11th, started working again today, 12 (9 evening was when hell started). Organising code, commenting, README for data folder; plan wht plots/analyses to do next; module choice from Bham; [C
