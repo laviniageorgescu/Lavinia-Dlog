@@ -120,3 +120,8 @@ Managed to take care of LoA and get evidence from GP, but can't see much without
 
 [2020-03-12 21:03] Recovered from new anti-depressant hole.
 9-12/03/2020 affected, bedridden on the 10th, better on 11th, started working again today, 12 (9 evening was when hell started). Organising code, commenting, README for data folder; plan wht plots/analyses to do next; module choice from Bham; [C
+
+[2020-03-13 22:11] Finished V2 of LoA as per Mica's feedback.
+Got yearly anomalies and plots. Also got a fever. @health @coding I sure hope it's not the corvid. No more flu for this year, once is enough, thank you. Will try to work on weekend to make up for bad health week, provided fever doesn't worsen.
+
+I honestly just want to work...
