@@ -128,3 +128,6 @@ I honestly just want to work...
 
 [2020-03-16 21:51] @coding today.
 Working on plotting anomalies, showing trends. Half day, due to @pills. Will get new ones tmrw. @health
+
+[2020-03-19 19:59] Switched R coding into PyCharm.
+Rstudio was slow and buggy. Now much improved for such large files. Have figured out how best to read and subtract continent polygons from world shape file. Plan to subset raster VOD to polygons and get summary stats, then extend to biomes.
