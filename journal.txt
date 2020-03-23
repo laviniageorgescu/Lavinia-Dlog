@@ -131,3 +131,8 @@ Working on plotting anomalies, showing trends. Half day, due to @pills. Will get
 
 [2020-03-19 19:59] Switched R coding into PyCharm.
 Rstudio was slow and buggy. Now much improved for such large files. Have figured out how best to read and subtract continent polygons from world shape file. Plan to subset raster VOD to polygons and get summary stats, then extend to biomes.
+
+[2020-03-23 19:05] Fixed a coding problem.
+Another appeared. But it is progressing. May or may not have solved a @health problem, feeling hopeful productivity will increase. 
+
+Also, f corona.
