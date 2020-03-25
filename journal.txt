@@ -136,3 +136,6 @@ Rstudio was slow and buggy. Now much improved for such large files. Have figured
 Another appeared. But it is progressing. May or may not have solved a @health problem, feeling hopeful productivity will increase. 
 
 Also, f corona.
+
+[2020-03-25 00:36] Ahahaaaa!!!
+2 other coding challenges fixed today. I am a master of R (not really, but it is satisfying). Should now have a basis for grouping VOD data using other multipolygon files, e.g. biomes, countries, climate regions, PFT etc. Still need to test on a VOD file w/ time >1
