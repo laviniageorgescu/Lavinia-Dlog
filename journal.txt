@@ -162,3 +162,9 @@ Organising reading notes. Figuring out health timeline for GRS2. Qs to ask Matth
 
 [2020-06-17 00:17] almost finished processing the extra ESA LC years.
 will send tmrw to Matthias  & Luisa
+
+[2020-06-18 00:43] Ran into some problems with wrapping up the ESA LC data.
+Haven't managed to iron them out today, although have finished initial and final steps. Something went wrong in the middle. Will work on it tmrw.
+
+[2020-06-19 00:28] Found the problems with the code for the ESA files.
+Now it all works. Only need to apply to and finish the rest of the files, and then will share them with Maatthias and Luisa.
