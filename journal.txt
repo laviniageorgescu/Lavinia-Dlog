@@ -168,3 +168,8 @@ Haven't managed to iron them out today, although have finished initial and final
 
 [2020-06-19 00:28] Found the problems with the code for the ESA files.
 Now it all works. Only need to apply to and finish the rest of the files, and then will share them with Maatthias and Luisa.
+
+[2020-06-19 18:02] Finished processing ESA LC data.
+Shared with MF and LS. Finished GRS2 for the month.
+
+Until next week - CIAO BELLA!
