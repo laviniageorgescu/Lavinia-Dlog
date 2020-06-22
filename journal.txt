@@ -173,3 +173,6 @@ Now it all works. Only need to apply to and finish the rest of the files, and th
 Shared with MF and LS. Finished GRS2 for the month.
 
 Until next week - CIAO BELLA!
+
+[2020-06-22 23:11] Tried to figure out the errors Matthias pointed out.
+Worked on the loss data - noticed another error (theme of the day) had propagated through to the final file, so will work on fixing it tomorrow and finishing the prep.
