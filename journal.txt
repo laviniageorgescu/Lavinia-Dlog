@@ -176,3 +176,15 @@ Until next week - CIAO BELLA!
 
 [2020-06-22 23:11] Tried to figure out the errors Matthias pointed out.
 Worked on the loss data - noticed another error (theme of the day) had propagated through to the final file, so will work on fixing it tomorrow and finishing the prep.
+
+[2020-06-23 21:44] Haven't been able to fix file w/ gdal.
+R not working. Tmrw will eitither submit a bluebear request or burn the IT centre down, Been trying to find a way to reaquest an ArcGIS license for an hour now, I want to scream.
+
+BURN IT DOWN
+
+p.s. R not working as in what I want it to do needs more memory... hence bluebear req. Tmrw when I'm not fuming. Gb.
+
+[2020-06-25 19:10] Forgot to update Dlog for Wed.
+GRS2 meeting in the morning. Then spent the rest of the day fighting with and figuring out how to submit jobs to BlueBear + emails. 
+
+Today spent in a similar fashion, as job time turned out to be too short and process was killed. Also a new error from the bluebear module, so switched Rgeo modules. Set job for 10 hours. Also tried another gdalwarp resampling algorithm which produced better results, just in case this aggregation problem persists. This one does not affect the value scale. Req ArcGIS access. + trying a new R aggreg method. Will simply use the gdal one if results are not good tmrw re bluebear.
