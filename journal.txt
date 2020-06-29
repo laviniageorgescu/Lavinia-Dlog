@@ -188,3 +188,8 @@ p.s. R not working as in what I want it to do needs more memory... hence bluebea
 GRS2 meeting in the morning. Then spent the rest of the day fighting with and figuring out how to submit jobs to BlueBear + emails. 
 
 Today spent in a similar fashion, as job time turned out to be too short and process was killed. Also a new error from the bluebear module, so switched Rgeo modules. Set job for 10 hours. Also tried another gdalwarp resampling algorithm which produced better results, just in case this aggregation problem persists. This one does not affect the value scale. Req ArcGIS access. + trying a new R aggreg method. Will simply use the gdal one if results are not good tmrw re bluebear.
+
+[2020-06-29 21:46] almost done w/ forest change data proc.
+Next to look at quantifying change from ESA and Hansen - will look at TP's Matlab devil script.
+
+If everything fails, maybe I should become a plumber.
