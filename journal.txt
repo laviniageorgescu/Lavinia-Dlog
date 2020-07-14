@@ -193,3 +193,6 @@ Today spent in a similar fashion, as job time turned out to be too short and pro
 Next to look at quantifying change from ESA and Hansen - will look at TP's Matlab devil script.
 
 If everything fails, maybe I should become a plumber.
+
+[2020-07-14 22:34] Forest thresholds meeting.
+PP from Munich pres on Monday + figuring out how to reprocess aggregation. Figured out Tom's suggestion, then went to do it differently... and today it worked on test file. Waiting on BB to apply on final raster.
